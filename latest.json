@@ -5,7 +5,7 @@
   "title": "Syntaxa ShopOS v2.0.1 Official Release",
   "releaseNotes": "• Added Shopkeeper App Guidebook & First-Bill Walkthrough in 8 Indian Languages\n• Added Micro-Passes (Weekend Pass ₹29, Weekly Pass ₹59, Chota Pack ₹39, Vyapar Pack ₹149)\n• Updated Pro Monthly Plan to ₹249 with dynamic UPI QR code generator\n• General performance optimizations and offline reliability enhancements",
   "windows": {
-    "url": "https://github.com/syntaxa-tech/shopos-updates/releases/download/v2.0.1/syntaxa_shopos_v2.0.1_windows.zip",
+    "url": "https://github.com/mohdsahil4969/shopos/releases/download/v2.0.1/syntaxa_shopos_v2.0.1_windows.zip",
     "sha256": "aaf59e9868cff5e078a574089ae8d823de977295f63639e93e742d2d817df665",
     "sizeBytes": 232284736
   },
