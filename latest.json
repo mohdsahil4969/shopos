@@ -1,18 +1,18 @@
 {
-  "latestVersion": "2.0.2",
+  "version": "2.0.2",
   "versionCode": 3,
+  "build_number": 3,
   "minimumSupportedVersion": "2.0.0",
-  "title": "Syntaxa ShopOS v2.0.2 Official Release",
-  "releaseNotes": "• Consistent professional color palette refinement (Primary Blue, Deep Navy, Subtle Blue)\n• Modern simple animated splash screen with offline security badge\n• Improved desktop sidebar and navigation contrasts\n• One-tap automated update enhancements",
+  "title": "Syntaxa ShopOS v2.0.2 Update Available",
+  "releaseNotes": "1. Modern simple splash screen with smooth branded animations.\n2. Consistent professional color palette across all mobile and desktop screens.\n3. Robust Windows auto-updater mechanism with zero-lock restart resilience.",
   "windows": {
     "url": "https://github.com/mohdsahil4969/shopos/releases/download/v2.0.2/syntaxa_shopos_v2.0.2_windows.zip",
-    "sha256": "20fe1c6f486637cd38917339a0082d91ce46889ed80750a6351449ddb60cef02",
-    "sizeBytes": 232289978
+    "sha256": "7093ff6b808beff7afe430aca8048a275b668197e2a66187d1dfbd84c7848438",
+    "sizeBytes": 232291265
   },
   "android": {
-    "url": "",
+    "url": "https://github.com/mohdsahil4969/shopos/releases/download/v2.0.2/app-release.apk",
     "sha256": "",
     "sizeBytes": 0
-  },
-  "releaseDate": "2026-10-18T18:40:00Z"
+  }
 }
